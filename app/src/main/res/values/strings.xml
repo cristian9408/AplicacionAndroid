@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="telefono">Telefono</string>
+    <string name="correo">Correo</string>
+    <string name="desc">Descripción</string>
+    <string name="botonA1">Siguiente</string>
+    <string name="fecha">Fecha de Nacimiento</string>
+
+
+    <string name="title_info">Confirmar Datos</string>
+    <string name="name_complete">Nombre: </string>
+    <string name="date">Fecha de Nacimiento: </string>
+    <string name="phoneAct">Telefono: </string>
+    <string name="email2">Correo: </string>
+    <string name="decript">Descripción: </string>
+    <string name="botonA2">Editar Datos</string>
+
+</resources>
